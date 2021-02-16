@@ -1,0 +1,7 @@
+#################################################################################################
+# located at bamboo@bamboo.scap.solitonsystems.com:azure
+# --- script: Check_Azure_Login.ps1
+# --- script: HandleBuildHost.sh
+# --- script: Start_Azure_Host.ps1
+# --- script: Stop_Azure_Host.ps1
+# --- 
